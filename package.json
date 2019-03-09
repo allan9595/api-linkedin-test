@@ -1,0 +1,11 @@
+{
+  "name": "api-project-linkedin",
+  "version": "1.0.0",
+  "description": "an api handlie linkedin oauth and database connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bohan Zhang",
+  "license": "MIT"
+}
